@@ -1,0 +1,12 @@
+{
+  "name": "server_template",
+  "version": "1.0.0",
+  "description": "\"A basic server template, using Node.js and express. Branches will be added to implement things like sequel or mongo, angular or jQuery. The server can then be customized, by simply merging the desired branches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/app.js"
+  },
+  "author": "Nick Wernimont",
+  "license": "ISC"
+}
